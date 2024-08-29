@@ -1,7 +1,7 @@
 .first, .second, .third {
 
     background-color: lightblue; 
-    font-size: 24px;
+    font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     padding: 24px;
@@ -10,8 +10,8 @@
 
 h2 {
 
-background-color: red;
-font-size: 18px;
+background-color: gray;
+font-size: 24px;
 text-align: center;
 }
 
